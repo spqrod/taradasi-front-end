@@ -1,5 +1,4 @@
 import "../styles/home.css";
-import WhatsAppIcon from '@mui/icons-material/WhatsApp';
 import { Link } from "react-router-dom";
 import LocalOfferOutlinedIcon from '@mui/icons-material/LocalOfferOutlined';
 import LocalShippingOutlinedIcon from '@mui/icons-material/LocalShippingOutlined';

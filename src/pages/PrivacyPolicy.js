@@ -9,7 +9,7 @@ function PrivacyPolicy() {
 
             <p>It is Taradasi Medics’s policy to respect your privacy regarding any information 
             we may collect while operating our website. This Privacy Policy applies to
-            https://drwatsondental.com/ (hereinafter, “us”, “we”, or “https://drwatsondental.com/”).
+            https://taradasi.com/ (hereinafter, “us”, “we”, or “https://taradasi.com/”).
             We respect your privacy and are committed to protecting personally 
             identifiable information you may provide us through the Website. 
             We have adopted this privacy policy (“Privacy Policy”) to explain what 
@@ -24,13 +24,13 @@ function PrivacyPolicy() {
 
             <p>
             Like most website operators, Taradasi Medics collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Taradasi Medics’s purpose in collecting non-personally identifying information is to better understand how Taradasi Medics’s visitors use its website. From time to time, Taradasi Medics may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
-            Taradasi Medics also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on https://drwatsondental.com/ blog posts. Taradasi Medics only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below.
+            Taradasi Medics also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on https://taradasi.com/ blog posts. Taradasi Medics only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below.
             </p>
 
             <h2>Gathering of Personally-Identifying Information</h2>
 
             <p>
-            Certain visitors to Taradasi Medics’s websites choose to interact with Taradasi Medics in ways that require Taradasi Medics to gather personally-identifying information. The amount and type of information that Taradasi Medics gathers depends on the nature of the interaction. For example, we ask visitors who sign up for a blog at https://drwatsondental.com/ to provide a username and email address.
+            Certain visitors to Taradasi Medics’s websites choose to interact with Taradasi Medics in ways that require Taradasi Medics to gather personally-identifying information. The amount and type of information that Taradasi Medics gathers depends on the nature of the interaction. For example, we ask visitors who sign up for a blog at https://taradasi.com/ to provide a username and email address.
             </p>
 
             <h2>Security</h2>
@@ -52,10 +52,10 @@ function PrivacyPolicy() {
             We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites, products or services.
             </p>
 
-            <h2>Https://drwatsondental.com/ uses Google AdWords for remarketing</h2>
+            <h2>Https://taradasi.com/ uses Google AdWords for remarketing</h2>
 
             <p>
-            Https://drwatsondental.com/ uses the remarketing services to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an enquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits. Of course, any data collected will be used in accordance with our own privacy policy and Google’s privacy policy.
+            Https://taradasi.com/ uses the remarketing services to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an enquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits. Of course, any data collected will be used in accordance with our own privacy policy and Google’s privacy policy.
             You can set preferences for how Google advertises to you using the Google Ad Preferences page, and if you want to you can opt out of interest-based advertising entirely by cookie settings or permanently using a browser plugin.
             </p>
 
@@ -63,7 +63,7 @@ function PrivacyPolicy() {
 
             <p>
             Taradasi Medics discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Taradasi Medics’s behalf or to provide services available at Taradasi Medics’s website, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Taradasi Medics’s website, you consent to the transfer of such information to them. Taradasi Medics will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Taradasi Medics discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when Taradasi Medics believes in good faith that disclosure is reasonably necessary to protect the property or rights of Taradasi Medics, third parties or the public at large.
-            If you are a registered user of https://drwatsondental.com/ and have supplied your email address, Taradasi Medics may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Taradasi Medics and our products. We primarily use our blog to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Taradasi Medics takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.</p>
+            If you are a registered user of https://taradasi.com/ and have supplied your email address, Taradasi Medics may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Taradasi Medics and our products. We primarily use our blog to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Taradasi Medics takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.</p>
 
             <h2>Aggregated Statistics</h2>
 
@@ -81,7 +81,7 @@ function PrivacyPolicy() {
 
             <p>
             To enrich and perfect your online experience, Taradasi Medics uses “Cookies”, similar technologies and services provided by others to display personalized content, appropriate advertising and store your preferences on your computer.
-            A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Taradasi Medics uses cookies to help Taradasi Medics identify and track visitors, their usage of https://drwatsondental.com/, and their website access preferences. Taradasi Medics visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Taradasi Medics’s websites, with the drawback that certain features of Taradasi Medics’s websites may not function properly without the aid of cookies.
+            A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Taradasi Medics uses cookies to help Taradasi Medics identify and track visitors, their usage of https://taradasi.com/, and their website access preferences. Taradasi Medics visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Taradasi Medics’s websites, with the drawback that certain features of Taradasi Medics’s websites may not function properly without the aid of cookies.
             By continuing to navigate our website without changing your cookie settings, you hereby acknowledge and agree to Taradasi Medics’s use of cookies.
             </p>
 

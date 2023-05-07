@@ -28,10 +28,6 @@
 }
 
 .homePage .heroImageContainer {
-	/* Without setting height to any value (1 px in this case)
-	the flex property doesn't work properly for some reason */
-	/* height: 1px; */
-	/* flex: 1 1 auto; */
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -41,22 +37,28 @@
 	width: 100%;
 }
 
+.homePage .heroSection {
+	flex-direction: row;
+	align-items: center;
+}
+
+.homePage .heroInfo {
+	width: 50%;
+}
+
+.homePage .heroImageContainer {
+	height: 70%;
+	width: 50%;
+}
+
 /* Responsiveness */
 
-@media screen and (min-width: 768px) {
-	
-	.homePage .heroSection {
-		flex-direction: row;
-		align-items: center;
-	}
-
+@media screen and (max-width: 768px) {
 	.homePage .heroInfo {
-		width: 50%;
+		width: 100%;
 	}
-	
 	.homePage .heroImageContainer {
-		height: 70%;
-		width: 50%;
+		display: none;
 	}
 }
 
@@ -123,6 +125,18 @@
 	align-items: center;
 }
 
+@media screen and (max-width: 768px) {
+	.homePage .reviewContainer {
+		/* flex-direction: column; */
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+
+	.homePage .reviewInfoContainer {
+		gap: 32px;
+	}
+}
+
 .homePage .reviewImageContainer {
 	height: 150px;
 	flex-basis: 150px;
@@ -168,6 +182,12 @@
 		transition: var(--global-transition);
 	}
 
+	@media screen and (max-width: 768px) {
+		.homePage .benefitContainer {
+			flex-basis: 100%;
+		}
+	}
+
 	.homePage .benefitContainer:hover {
 		background-color: var(--primary-color-light);
 	}
@@ -191,6 +211,14 @@
 }
 
 .homePage .fromZambiaImage {
-	max-width: 500px;
+	max-width: min(80vw, 500px);
 	height: 100%;
+}
+
+@media screen and (max-width: 768px) {
+	.homePage .fromZambiaContainer {
+		flex-direction: row;
+		flex-wrap: wrap;
+		gap: 32px;
+	}
 }

@@ -23,12 +23,12 @@ function TermsAndConditions() {
             </h2>
             
             <p>
-                Unless otherwise stated, Taradasi Medics and/or it’s licensors own the intellectual property rights for all material on Taradasi Medics. All intellectual property rights are reserved. You may view and/or print pages from https://drwatsondental.com/ for your own personal use subject to restrictions set in these terms and conditions.<br/><br/>
+                Unless otherwise stated, Taradasi Medics and/or it’s licensors own the intellectual property rights for all material on Taradasi Medics. All intellectual property rights are reserved. You may view and/or print pages from https://taradasi.com/ for your own personal use subject to restrictions set in these terms and conditions.<br/><br/>
                 You must not:
             <ul>
-                <li>Republish material from https://drwatsondental.com/</li>
-                <li>Sell, rent or sub-license material from https://drwatsondental.com/</li>
-                <li>Reproduce, duplicate or copy material from https://drwatsondental.com/</li>
+                <li>Republish material from https://taradasi.com/</li>
+                <li>Sell, rent or sub-license material from https://taradasi.com/</li>
+                <li>Reproduce, duplicate or copy material from https://taradasi.com/</li>
                 <li>Redistribute content from Taradasi Medics (unless content is specifically made for redistribution).</li>
             </ul>
             
