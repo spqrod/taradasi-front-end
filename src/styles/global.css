@@ -63,6 +63,7 @@ h1 {
 	font-size: 38px;
 	text-align: center;
 	font-weight: 900;
+	padding-bottom: var(--global-vertical-padding);
 }
 
 

@@ -3,8 +3,8 @@ import "../styles/blog.css";
 function Blog() {
     return (
         <section>
-            <h1>Our Dental Blog</h1>
-            <p className="headline">Read our latest tips and tricks on how to care for your teeth and mouth</p>
+            <h1>Our Blog</h1>
+            <p className="headline">Read our latest tips and tricks on how to run a dental practice</p>
             <div id="blogPostsContainer">
                 <div className="blogPost">
                     <h2>Teeth Whitening</h2>
