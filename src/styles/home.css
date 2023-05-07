@@ -1,0 +1,245 @@
+
+/*	
+	------------------------------
+	Hero Section 
+	------------------------------
+*/
+
+.homePage .heroSection {
+	display: flex;
+	align-items: center;
+	/* flex-wrap: wrap; */
+	/* flex-direction: column; */
+	height: 90vh;
+	padding-top: 64px;
+}
+
+.homePage .heroInfo {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	flex-wrap: wrap;
+	text-align: center;
+	gap: 16px;
+}
+
+.homePage .heroImageContainer {
+	/* Without setting height to any value (1 px in this case)
+	the flex property doesn't work properly for some reason */
+	/* height: 1px; */
+	/* flex: 1 1 auto; */
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.homePage .heroImage {
+	width: 100%;
+}
+
+/* Responsiveness */
+
+@media screen and (min-width: 768px) {
+	
+	.homePage .heroSection {
+		flex-direction: row;
+		align-items: center;
+	}
+
+	.homePage .heroInfo {
+		width: 50%;
+	}
+	
+	.homePage .heroImageContainer {
+		height: 70%;
+		width: 50%;
+	}
+}
+
+/*	
+	------------------------------
+	Shop Section 
+	------------------------------
+*/
+
+.homePage .shopSection {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 32px;
+}
+
+.homePage .productsContainer {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	gap: 16px;
+}
+
+.homePage .productContainer {
+	padding: 16px;
+	max-width: 300px;
+	border: 1px solid black;
+	border-radius: var(--global-border-radius);
+	overflow: hidden;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.homePage .productImage {
+	max-width: 250px;
+}
+
+.homePage .productName {
+	text-align: center;
+	text-decoration: none!important;
+	border: none;
+
+}
+
+/*	
+	------------------------------
+	Reviews Section 
+	------------------------------
+*/
+
+.homePage .reviewsContainer {
+	display: flex;
+	flex-direction: column;
+	gap: 16px;
+}
+
+.homePage .reviewContainer {
+	border-radius: 16px;
+	border: 1px solid black;
+	padding: 16px;
+	display: flex;
+	gap: 16px;
+	align-items: center;
+}
+
+.homePage .reviewImageContainer {
+	height: 150px;
+	flex-basis: 150px;
+	flex-shrink: 0;
+	overflow: hidden;
+	border: 1px solid black;
+	border-radius: 50%;
+}
+
+.homePage .reviewImage {
+	width: 100%;
+	object-fit: cover;
+}
+
+.homePage .reviewInfoContainer {
+	display: flex;
+	flex-direction: column;
+}
+
+/*	
+	------------------------------
+	Benefits Section 
+	------------------------------
+*/
+
+	.homePage .benefitsContainer {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 16px;
+	}
+
+	.homePage .benefitContainer {
+		flex-basis: 300px;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+		padding: 16px;
+		gap: 16px;
+		border: 1px solid black;
+		border-radius: var(--global-border-radius);
+		transition: var(--global-transition);
+	}
+
+	.homePage .benefitContainer:hover {
+		background-color: var(--primary-color-light);
+	}
+
+/*	
+	------------------------------
+	From Zambia Section 
+	------------------------------
+*/
+
+.homePage .fromZambiaSection {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 32px;
+}
+
+.homePage .fromZambiaContainer {
+	display: flex;
+	align-items: center;
+}
+
+.homePage .fromZambiaImage {
+	max-width: 500px;
+	height: 100%;
+}
+
+/*	
+	------------------------------
+	Floating WhatsApp Button
+	------------------------------
+*/
+
+/* The following prevents the overflow of Whatsapp Button.
+		Which has its review-body-starting animation position 
+		beyond the viewport to the right. */
+body, section {
+	overflow-x: hidden;
+}
+
+@keyframes floatingWhatsappButton-appearAnimation {
+	from {
+		transform: 
+			translateX(200px) 
+			rotate(360deg);
+	}
+	to {
+		transform: 
+			translateX(0)
+			rotate(0deg);
+	}
+}
+
+#floatingWhatsappButton {
+	width: 60px;
+	height: 60px;
+	position: sticky;
+	float: right;
+	bottom: 6vh;
+	margin-right: var(--global-horizontal-padding);
+
+	animation-name: floatingWhatsappButton-appearAnimation;
+	animation-timing-function: ease-out;
+	animation-duration: 0.8s;
+	animation-delay: 2s;
+	animation-fill-mode: backwards;
+
+}
+
+#floatingWhatsappButton-image{
+	width: 60px;
+	box-shadow: var(--global-box-shadow);
+	border-radius: 22%;
+	transition: var(--global-transition);
+}
+
+#floatingWhatsappButton-image:hover{
+	transform: var(--global-transform);
+}
+
