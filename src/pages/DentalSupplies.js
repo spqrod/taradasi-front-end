@@ -15,13 +15,13 @@ function DentalSupplies() {
                     </div>
                     <div className="productContainer">
                         <Link to="/dental-supplies">
-                            <img className="productImage" src={ require("../images/dental-drill-bits.jpg") } alt="dental drill bits" />
+                            <img className="productImage" src={ require("../images/dental-drill-bits.png") } alt="dental drill bits" />
                             <h3 className="productName">Dental Drill Bits</h3>
                         </Link>
                     </div>
                     <div className="productContainer">
                         <Link to="/dental-supplies">
-                            <img className="productImage" src={ require("../images/dental-chair.jpg") } alt="dental chairs" />
+                            <img className="productImage" src={ require("../images/dental-chair.png") } alt="dental chairs" />
                             <h3 className="productName">Dental Chairs</h3>
                         </Link>
                     </div>
@@ -33,7 +33,7 @@ function DentalSupplies() {
                     </div>
                     <div className="productContainer">
                         <Link to="/dental-supplies">
-                            <img className="productImage" src={ require("../images/dental-x-ray-impression.jpg") } alt="dental x-ray" />
+                            <img className="productImage" src={ require("../images/dental-x-ray-impression.png") } alt="dental x-ray" />
                             <h3 className="productName">X-Ray</h3>
                         </Link>
                     </div>
@@ -45,7 +45,7 @@ function DentalSupplies() {
                     </div>
                 </div>
                 <button className="button">
-                    <Link to="/dental-supplies">See Dental Supplies</Link>
+                    <Link to="/contact">Contact Us For Pricing</Link>
                 </button>
             </section>
         </main>

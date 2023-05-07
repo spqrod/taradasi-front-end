@@ -35,13 +35,13 @@ function Home() {
                     </div>
                     <div className="productContainer">
                         <Link to="/dental-supplies">
-                            <img className="productImage" src={ require("../images/dental-drill-bits.jpg") } alt="dental drill bits" />
+                            <img className="productImage" src={ require("../images/dental-drill-bits.png") } alt="dental drill bits" />
                             <h3 className="productName">Dental Drill Bits</h3>
                         </Link>
                     </div>
                     <div className="productContainer">
                         <Link to="/dental-supplies">
-                            <img className="productImage" src={ require("../images/dental-chair.jpg") } alt="dental chairs" />
+                            <img className="productImage" src={ require("../images/dental-chair.png") } alt="dental chairs" />
                             <h3 className="productName">Dental Chairs</h3>
                         </Link>
                     </div>
@@ -53,7 +53,7 @@ function Home() {
                     </div>
                     <div className="productContainer">
                         <Link to="/dental-supplies">
-                            <img className="productImage" src={ require("../images/dental-x-ray-impression.jpg") } alt="dental x-ray" />
+                            <img className="productImage" src={ require("../images/dental-x-ray-impression.png") } alt="dental x-ray" />
                             <h3 className="productName">X-Ray</h3>
                         </Link>
                     </div>
@@ -86,7 +86,7 @@ function Home() {
                 </div>
 
             </section>
-            <section className="benefits">
+            <section className="benefitsSection">
                 <h2>Why Work With Us</h2>
                 <div className="benefitsContainer">
                     <div className="benefitContainer">

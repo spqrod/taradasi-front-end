@@ -5,6 +5,10 @@
 	------------------------------
 */
 
+.homePage h1 {
+	padding-bottom: 0;
+}
+
 .homePage .heroSection {
 	display: flex;
 	align-items: center;
@@ -148,6 +152,7 @@
 		display: flex;
 		flex-wrap: wrap;
 		gap: 16px;
+		justify-content: center;
 	}
 
 	.homePage .benefitContainer {
