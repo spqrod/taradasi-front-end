@@ -1,4 +1,4 @@
-import { Routes, Route } from "react-router-dom";
+import { Routes, Route, useLocation } from "react-router-dom";
 import "./styles/global.css";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
@@ -10,8 +10,17 @@ import DentalSupplies from "./pages/DentalSupplies";
 import PrivacyPolicy from "./pages/PrivacyPolicy";
 import TermsAndConditions from "./pages/TermsAndConditions";
 import ScrollToTop from "./components/ScrollToTop";
+import { useEffect } from "react";
 
 function App() {
+
+  const location = useLocation();
+
+  useEffect(() => {
+    const headerMenuHamburger = document.querySelector("#hamburger-checkbox");
+    headerMenuHamburger.checked = false;
+  }, [location]);
+
   return (
     <main>
       <ScrollToTop />

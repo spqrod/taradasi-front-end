@@ -7,6 +7,13 @@
 	justify-content: space-around;
 }
 
+@media screen and (max-width: 768px) {
+	.contactPage .contactOptionsContainer {
+		flex-wrap: wrap;
+		gap: 32px;
+	}
+}
+
 .contactPage .contactInfoContainer {
 	flex-basis: 300px;
 }

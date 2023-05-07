@@ -117,8 +117,7 @@ header {
 	width: 100vw;
 	display: flex;
 	justify-content: center;
-	background-image: linear-gradient(white,#bbb5c3);
-
+	background-color: #fff;
 }
 
 #hamburger-checkbox:checked ~ #hamburger #hamburgerLine-2 {
