@@ -12,10 +12,10 @@ function Footer() {
             <div className="footer">
                 <div className="footer-contacts">
                     <h1>Contacts</h1>
-                        <p><a className="footer-contactText" href="tel:+260955336825"><PhoneOutlinedIcon /> +260 955 336825</a></p>
-                        <p><PlaceOutlinedIcon /> Leopards Hill Mall, Leopards Hill Rd, Bauleni, Lusaka, Zambia</p>
-                        <p><AccessTimeOutlinedIcon /> Monday – Sunday<br/>8:00 – 17:00</p>
-                        <a href="https://wa.me/260955336825/"><WhatsAppIcon /> WhatsApp </a>
+                    <p><a className="footer-contactText" href="tel:+260955336825"><PhoneOutlinedIcon /> +260 955 336825</a></p>
+                    <p><PlaceOutlinedIcon /> Leopards Hill Mall, Leopards Hill Rd, Bauleni, Lusaka, Zambia</p>
+                    <p><AccessTimeOutlinedIcon /> Monday – Sunday<br/>8:00 – 17:00</p>
+                    <a href="https://wa.me/260955336825/"><WhatsAppIcon /> WhatsApp </a>
                 </div>
                 <div className="footer-map">
                     {/* <iframe width="100%" height="100%" style="border:0" loading="lazy" allowfullscreen src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJoWDZn3OPQBkRRH8xyLO8-S0&key=AIzaSyBgB0tY8-gE3cfSSUZ5st4z152lfElE7Yk"></iframe> */}

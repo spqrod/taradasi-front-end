@@ -20,7 +20,7 @@
 	align-items: center;
 	flex-wrap: wrap;
 	text-align: center;
-	gap: 16px;
+	gap: 32px;
 }
 
 .homePage .heroImageContainer {
@@ -189,57 +189,3 @@
 	max-width: 500px;
 	height: 100%;
 }
-
-/*	
-	------------------------------
-	Floating WhatsApp Button
-	------------------------------
-*/
-
-/* The following prevents the overflow of Whatsapp Button.
-		Which has its review-body-starting animation position 
-		beyond the viewport to the right. */
-body, section {
-	overflow-x: hidden;
-}
-
-@keyframes floatingWhatsappButton-appearAnimation {
-	from {
-		transform: 
-			translateX(200px) 
-			rotate(360deg);
-	}
-	to {
-		transform: 
-			translateX(0)
-			rotate(0deg);
-	}
-}
-
-#floatingWhatsappButton {
-	width: 60px;
-	height: 60px;
-	position: sticky;
-	float: right;
-	bottom: 6vh;
-	margin-right: var(--global-horizontal-padding);
-
-	animation-name: floatingWhatsappButton-appearAnimation;
-	animation-timing-function: ease-out;
-	animation-duration: 0.8s;
-	animation-delay: 2s;
-	animation-fill-mode: backwards;
-
-}
-
-#floatingWhatsappButton-image{
-	width: 60px;
-	box-shadow: var(--global-box-shadow);
-	border-radius: 22%;
-	transition: var(--global-transition);
-}
-
-#floatingWhatsappButton-image:hover{
-	transform: var(--global-transform);
-}
-
