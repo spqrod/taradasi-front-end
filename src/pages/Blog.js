@@ -7,32 +7,27 @@ function Blog() {
             <p className="headline">Read our latest tips and tricks on how to run a dental practice</p>
             <div id="blogPostsContainer">
                 <div className="blogPost">
-                    <h2>Teeth Whitening</h2>
+                    <h2>Types of Dental Equipment</h2>
                     <p>
-                        Have you ever noticed that when children grow their first set of permanent teeth, they look very white in colour, like on our advertising pictures?<br/><br/>
-                        We'll explain what happens as we age and what can be done about it.
-                    </p>
-
-                </div>
-                <div className="blogPost">
-                    <h2>How to brush your teeth</h2>
-                    <p>
-                        Brushing your teeth incorrectly is like eating soup with a fork. Very little gets done and the soup is not enjoyed.<br/><br/>
-                        Here we will discover why it’s important to brush your teeth properly, how to do that, and what happens if you don’t.
+                        Whether for setting up a new practice or upgrading the existing one, we need a lot of dental tools. From treating patients, to the sterilization system, dentistry is all about numerous types of dental equipment. It is important to know about the latest available tools that can help us to meet patient treatment needs. With these latest dental supplies, and technologies we can improve our services and get better results. 
                     </p>
                 </div>
                 <div className="blogPost">
-                    <h2>Do we really need flossing?</h2>
+                    <h2>Top 10 tips for new dentists</h2>
                     <p>
-                        Ever wondered what flossing (apart from the popular dance move) means exactly?<br/><br/>		
-                        We have been told that it helps us maintain our oral health. Is that really so, or is there something more to it? Let us try to find out why, exactly, flossing needs to become a part of our daily routine.
+                        Starting our journey as new dentists, we face many challenges and these dental tips can help to plan better for a successful rewarding career. To start your dental business we need some plans and strategies that can help us perform better. By following these strategies we can achieve success faster. 
                     </p>
                 </div>
                 <div className="blogPost">
-                    <h2>Be your own dentist</h2>
+                    <h2>Dental Ergonomics</h2>
                     <p>
-                        Yes, you need to brush your teeth every day. No, this is not enough. <br/><br/>
-                        Just by brushing your teeth, you can’t prevent oral problems like bad breath, gingivitis, cavities and others. Yet if you care for your teeth properly, you will have much less occasions to visit your dentist. This will save you a lot of money, time and comfort.
+                        Dentists have a physically and mentally demanding job - they relieve pain, provide comfort and distribute lovely smiles. Each day dentists treat thousands of patients throughout the world.  While they are busy bringing smiles to the faces of their patients, they often neglect one thing: their personal health and care. 
+                    </p>
+                </div>
+                <div className="blogPost">
+                    <h2>How to choose the best dental chair?</h2>
+                    <p>
+                        Modern dental chairs come with many inbuilt technologies that can influence the efficiency of your work and the patient comfort. When you start your dental business considering some of these important factors while choosing the right chair can enhance your ergonomics, leading to successful dental career. 
                     </p>
                 </div>
             </div>

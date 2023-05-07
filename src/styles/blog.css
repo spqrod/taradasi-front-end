@@ -8,9 +8,9 @@
 
 .blogPost {
     flex-basis: 100%;
-    background-color: var(--primary-color-light-2);
-    /* background-image: linear-gradient(var(--gradient)); */
     padding: 16px;
+    border: 1px solid black;
+    border-radius: var(--global-border-radius);
 }
 
 @media screen and (min-width: 768px) {
